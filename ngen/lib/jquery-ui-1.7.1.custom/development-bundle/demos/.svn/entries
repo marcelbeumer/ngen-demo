@@ -1,0 +1,166 @@
+10
+
+dir
+169
+https://marcelb@smooth.hillenbrink.com/svn/bng3/code/trunk/bng3demo/marcel/local/cases/ngen/lib/jquery-ui-1.7.1.custom/development-bundle/demos
+https://marcelb@smooth.hillenbrink.com/svn/bng3
+
+
+
+2009-05-18T13:05:35.194106Z
+169
+marcelb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+resizable
+dir
+
+show
+dir
+
+toggle
+dir
+
+slider
+dir
+
+removeClass
+dir
+
+switchClass
+dir
+
+progressbar
+dir
+
+tabs
+dir
+
+effect
+dir
+
+demos.css
+file
+
+
+
+
+2009-05-02T17:52:10.000000Z
+2e2ec04700af4ac5681a956cfe405c47
+2009-05-18T13:05:35.194106Z
+169
+marcelb
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14338
+
+dialog
+dir
+
+accordion
+dir
+
+selectable
+dir
+
+images
+dir
+
+toggleClass
+dir
+
+droppable
+dir
+
+draggable
+dir
+
+hide
+dir
+
+index.html
+file
+
+
+
+
+2009-05-02T17:52:10.000000Z
+b05060c40fd9dd154b0fe017c1c10085
+2009-05-18T13:05:35.194106Z
+169
+marcelb
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13544
+
+datepicker
+dir
+
+sortable
+dir
+
+animate
+dir
+
+addClass
+dir
+
